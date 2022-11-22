@@ -5,3 +5,4 @@
 
 ## how to safely store a password
 - 　*Github*　ms02 #自分にだけわかる形のメモを保存
+    **Github**
